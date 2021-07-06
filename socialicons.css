@@ -1,0 +1,36 @@
+.fa {
+  color: #3F2C05;
+  padding: 10px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  color: #26D9B5;
+}
+
+.materialicon {
+	color: #3F2C05;
+ 	text-decoration: none;
+ 	word-spacing: -0.8rem;
+ 	vertical-align: -16px;
+}
+
+.materialicon:hover {
+  	color: #26D9B5;
+}
+
+.questionMarkIcon {
+	font-size: 50px;
+	vertical-align: center;
+	display:inline-block;
+}
+
+.materialIconText {
+	word-spacing: 0px;
+	font-size: 30px;
+	vertical-align: 16px;
+}
